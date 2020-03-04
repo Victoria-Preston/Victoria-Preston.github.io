@@ -1,18 +1,18 @@
-## Portfolio
+## Victoria Preston - Portfolio
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Design & Development](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Side Hustles & Projects](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Personality Profile](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
