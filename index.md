@@ -2,14 +2,13 @@
 
 ---
 
-### Category Name 1 
-
+### 
 [Design Samples](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Side Hustles & Projects](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail2.jpg?raw=true"/>
+<img src="images/logo.png?raw=true"/>
 
 ---
 [Personality Profile](http://example.com/)
