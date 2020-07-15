@@ -2,7 +2,7 @@ title: Victoria Preston # your name (or website title) here
 logo: "/images/victoria-preston-profile-placehold.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Creative, visual learner and product of the 70s seeks full-time employment. Samples of capabilities below.
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
