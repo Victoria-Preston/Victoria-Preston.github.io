@@ -1,4 +1,4 @@
-## Victoria Preston - Portfolio
+## Portfolio
 
 ---
 
@@ -7,7 +7,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Side Hustles & Projects](/pdf/sample_presentation.pdf)
+[Personal Projects](/pdf/sample_presentation.pdf)
 <img src="images/logo.png?raw=true"/>
 
 ---
